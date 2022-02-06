@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "128060730422",
+    "project_id": "ecommerce-54ada",
+    "storage_bucket": "ecommerce-54ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128060730422:android:21dee80228796c8bc5bc97",
+        "android_client_info": {
+          "package_name": "com.example.ecomarceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128060730422-fnugvtbd0sphnc7bo0lrstpcvv14ofi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecomarceapp",
+            "certificate_hash": "57e660a602adda1918cb86bee98c3e0ce4af90d9"
+          }
+        },
+        {
+          "client_id": "128060730422-upbphfjvaunmshskdoluihfrk6am9dhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_-OTfQCuxg5un85fPHC1iPC-Bpfkzes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128060730422-upbphfjvaunmshskdoluihfrk6am9dhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
