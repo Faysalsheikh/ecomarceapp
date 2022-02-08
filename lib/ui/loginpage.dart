@@ -1,4 +1,3 @@
-
 import 'package:ecomarceapp/const/appcolor.dart';
 import 'package:ecomarceapp/ui/navigator.dart';
 import 'package:ecomarceapp/ui/registrationpage.dart';

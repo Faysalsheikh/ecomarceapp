@@ -1,4 +1,3 @@
-
 import 'package:ecomarceapp/const/appcolor.dart';
 import 'package:ecomarceapp/navigator/addtocart.dart';
 import 'package:ecomarceapp/navigator/favorite.dart';
@@ -28,7 +27,7 @@ class _HomewidgetState extends State<Homewidget> {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: appcolor.mycolor,
-          title: Center(child: Text("E-Commerce")),
+          title: Center(child: Text("Feriwala")),
         ),
         bottomNavigationBar: BottomNavigationBar(
           type: BottomNavigationBarType.fixed,

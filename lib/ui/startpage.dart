@@ -1,4 +1,5 @@
 import 'dart:async';
+
 import 'package:ecomarceapp/const/appcolor.dart';
 import 'package:ecomarceapp/ui/loginpage.dart';
 import 'package:flutter/cupertino.dart';
@@ -30,7 +31,7 @@ class _StartwidgetState extends State<Startwidget> {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Text(
-              "E-Commerce",
+              "Feriwala",
               style: TextStyle(
                   color: Colors.white,
                   fontSize: 44.sp,
