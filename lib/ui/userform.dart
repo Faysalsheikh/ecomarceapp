@@ -49,7 +49,7 @@ class _UserwidgetState extends State<Userwidget> {
         })
         .then((value) => Navigator.push(
             context, MaterialPageRoute(builder: (_) => Homewidget())))
-        .catchError((error) => print("Something Went Wrong. $error"));
+        .catchError((error) => print("Something is Wrong. $error"));
   }
 
   Widget build(BuildContext context) {
